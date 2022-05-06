@@ -1,2 +1,2 @@
-# dio-desafio-github-meu-primeiro-repositorio
+# Repositorio do Desafio de Projeto spbre Git/Github da DIO
 Desafio de  Projeto Git/Github
